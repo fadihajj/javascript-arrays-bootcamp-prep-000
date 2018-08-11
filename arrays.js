@@ -1,0 +1,1 @@
+var grilledCheeseIngredients = [ 'bread', 'mild chees', 'sharp cheese', 'butter', 'tomato', 'garlic'];
