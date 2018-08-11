@@ -1,9 +1,7 @@
-var grilledCheeseIngredients = [ 'bread', 'mild chees', 'sharp cheese', 'butter', 'tomato', 'garlic'];
+function addElementToBeginningOfArray(){
+  
+}
 
-var tomatoSauceIngredients = [
-  'tomato',
-  'garlic',
-  'olive oil',
-  'basil',
-  'oregano'
-]
+function destructiveAddElementToBeginningOfArray(){
+  
+}
